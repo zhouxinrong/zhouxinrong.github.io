@@ -18,18 +18,18 @@
   
   <entry>
     <title></title>
-    <link href="https://zhouxinrong.github.io/2020/08/07/ceshi/"/>
-    <id>https://zhouxinrong.github.io/2020/08/07/ceshi/</id>
+    <link href="https://zhouxinrong.github.io/posts/0/"/>
+    <id>https://zhouxinrong.github.io/posts/0/</id>
     <published>2020-08-07T14:48:15.867Z</published>
     <updated>2020-08-07T14:49:12.114Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="标题二"><a href="#标题二" class="headerlink" title="标题二"></a>标题二</h2><h3 id="标题三"><a href="#标题三" class="headerlink" title="标题三"></a>标题三</h3><p><a href="https://www.baidu.com/">链接</a></p><p>‘’’bash</p><p>function foo(){</p><p>​    console.log(“这是一段测试代码!”)</p><p>}</p><p>‘’’</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="标题二"><a href="# 标题二" class="headerlink" title="标题二"></a>标题二 </h2><h3 id="标题三"><a href="# 标题三" class="headerlink" title="标题三"></a> 标题三 </h3><p><a href="https://www.baidu.com/"> 链接</a></p><p>‘’’bash</p><p>function foo(){</p><p>​    console.log(“这是一段测试代码!”)</p><p>}</p><p>‘’’</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h2 id=&quot;标题二&quot;&gt;&lt;a href=&quot;#标题二&quot; class=&quot;headerlink&quot; title=&quot;标题二&quot;&gt;&lt;/a&gt;标题二&lt;/h2&gt;&lt;h3 id=&quot;标题三&quot;&gt;&lt;a href=&quot;#标题三&quot; class=&quot;headerlink&quot; title=&quot;标题三&quot;&gt;&lt;/a&gt;标题三&lt;/h
+        &lt;h2 id=&quot;标题二&quot;&gt;&lt;a href=&quot;# 标题二&quot; class=&quot;headerlink&quot; title=&quot;标题二&quot;&gt;&lt;/a&gt;标题二 &lt;/h2&gt;&lt;h3 id=&quot;标题三&quot;&gt;&lt;a href=&quot;# 标题三&quot; class=&quot;headerlink&quot; title=&quot;标题三&quot;&gt;&lt;/a&gt; 标题
       
     
     </summary>
@@ -40,18 +40,18 @@
   
   <entry>
     <title>文章标题</title>
-    <link href="https://zhouxinrong.github.io/2020/08/07/%E6%96%87%E7%AB%A0%E6%A0%87%E9%A2%98/"/>
-    <id>https://zhouxinrong.github.io/2020/08/07/%E6%96%87%E7%AB%A0%E6%A0%87%E9%A2%98/</id>
+    <link href="https://zhouxinrong.github.io/posts/61132/"/>
+    <id>https://zhouxinrong.github.io/posts/61132/</id>
     <published>2020-08-07T14:35:06.000Z</published>
     <updated>2020-08-07T14:42:47.831Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="标题二"><a href="#标题二" class="headerlink" title="标题二"></a>标题二</h2><h3 id="标题三"><a href="#标题三" class="headerlink" title="标题三"></a>标题三</h3><p><a href="https://www.baidu.com/">链接</a></p><p>‘’’bash</p><p>function foo(){</p><p>​    console.log(“这是一段测试代码!”)</p><p>}</p><p>‘’’</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="标题二"><a href="# 标题二" class="headerlink" title="标题二"></a>标题二 </h2><h3 id="标题三"><a href="# 标题三" class="headerlink" title="标题三"></a> 标题三 </h3><p><a href="https://www.baidu.com/"> 链接</a></p><p>‘’’bash</p><p>function foo(){</p><p>​    console.log(“这是一段测试代码!”)</p><p>}</p><p>‘’’</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h2 id=&quot;标题二&quot;&gt;&lt;a href=&quot;#标题二&quot; class=&quot;headerlink&quot; title=&quot;标题二&quot;&gt;&lt;/a&gt;标题二&lt;/h2&gt;&lt;h3 id=&quot;标题三&quot;&gt;&lt;a href=&quot;#标题三&quot; class=&quot;headerlink&quot; title=&quot;标题三&quot;&gt;&lt;/a&gt;标题三&lt;/h
+        &lt;h2 id=&quot;标题二&quot;&gt;&lt;a href=&quot;# 标题二&quot; class=&quot;headerlink&quot; title=&quot;标题二&quot;&gt;&lt;/a&gt;标题二 &lt;/h2&gt;&lt;h3 id=&quot;标题三&quot;&gt;&lt;a href=&quot;# 标题三&quot; class=&quot;headerlink&quot; title=&quot;标题三&quot;&gt;&lt;/a&gt; 标题
       
     
     </summary>
@@ -62,8 +62,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://zhouxinrong.github.io/2020/08/06/hello-world/"/>
-    <id>https://zhouxinrong.github.io/2020/08/06/hello-world/</id>
+    <link href="https://zhouxinrong.github.io/posts/16107/"/>
+    <id>https://zhouxinrong.github.io/posts/16107/</id>
     <published>2020-08-05T16:10:23.606Z</published>
     <updated>2020-08-05T16:10:23.606Z</updated>
     
